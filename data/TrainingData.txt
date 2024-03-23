@@ -1,0 +1,25 @@
+Today the weather is sunny.
+Today the weather is windy.
+Today the weather is cloudy.
+Today the weather is rainy.
+Today the weather is stormy.
+
+Today the weather is sunny.
+Today the weather is sunny.
+Today the weather is sunny.
+Today the weather is sunny.
+Today the weather is sunny.
+Today the weather is sunny.
+
+Today the weather is windy.
+Today the weather is windy.
+Today the weather is windy.
+
+Today the weather is cloudy.
+Today the weather is cloudy.
+
+Today the weather is rainy.
+Today the weather is rainy.
+Today the weather is rainy.
+
+Today the weather is stormy.
